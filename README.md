@@ -1,16 +1,107 @@
-## Hi there 👋
+# Hello, I'm [Saravanan] 👋
+- LinkedIn: [Saravanan Cyber](https://www.linkedin.com/in/saravanan-cyber/)
 
-<!--
-**Saravanan-Patrick/Saravanan-Patrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [Brief Introduction]
+I'm currently transitioning into the **Cybersecurity field**, with a strong interest in **Security Operations Center (SOC) analysis and threat detection**.
 
-Here are some ideas to get you started:
+My academic background is in **Food Technology**, where I worked with safety standards, and quality control. Over time, I developed a growing interest in **technology and cybersecurity**, which motivated me to start building practical skills in digital security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile is where I document **labs, notes, and small projects** as I continue learning and developing my cybersecurity knowledge.
+
+---
+
+# 🛠 Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+
+Tools I'm currently learning and practicing with in cybersecurity labs.
+
+---
+
+# 📚 Current Learning Focus
+
+- Security Operations Center (SOC) workflow
+- Network traffic analysis
+- Log monitoring and investigation
+- Threat detection fundamentals
+- Incident response basics
+- Linux system administration
+
+---
+
+# 🧭 Cybersecurity Learning Roadmap
+
+### Phase 1 – Foundations
+- Networking basics  
+- Linux fundamentals  
+- Cybersecurity core concepts  
+- Understanding common attack techniques  
+
+### Phase 2 – Security Tools
+- Wireshark traffic analysis  
+- Nmap network scanning  
+- Basic vulnerability scanning  
+- Log analysis practice  
+
+### Phase 3 – SOC Skills
+- SIEM concepts  
+- Threat detection  
+- Alert investigation  
+- Incident triage  
+
+### Phase 4 – Practical Labs
+- Network analysis labs  
+- Attack detection labs  
+- SOC simulation exercises  
+- Blue team practice environments  
+
+---
+
+# 🧪 SOC Analyst Lab Projects
+
+*(This section will grow as I complete more labs)*
+
+### 🔍 Network Traffic Analysis Lab
+- Investigated suspicious traffic using Wireshark  
+- Identified unusual DNS requests and scanning patterns  
+- Documented possible indicators of compromise
+
+### 🛡 Nmap Scanning Lab
+- Practiced different Nmap scanning techniques  
+- Identified open ports and running services  
+- Documented network enumeration results
+
+### 📊 Log Analysis Lab
+- Reviewed authentication logs  
+- Investigated repeated login failures  
+- Practiced basic incident investigation workflow
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-Hash&show_icons=true)
+
+---
+
+# 🎯 Career Goal
+
+My goal is to grow into a **SOC Analyst role**, where I can help detect, investigate, and respond to cyber threats while continuing to improve my technical and analytical skills.
+
+Cybersecurity is a field where learning never stops, and I'm committed to improving step by step.
+
+---
+
+# 📬 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/saravanan-cyber/]
+- Email: [career.entrydesk@gmail.com]
+
+
+⭐ *This GitHub profile documents my journey from Food Technology to Cybersecurity.*
