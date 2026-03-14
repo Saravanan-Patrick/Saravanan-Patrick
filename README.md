@@ -63,25 +63,6 @@ Tools I'm currently learning and practicing with in cybersecurity labs.
 
 ---
 
-# 🧪 SOC Analyst Lab Projects
-
-*(This section will grow as I complete more labs)*
-
-### 🔍 Network Traffic Analysis Lab
-- Investigated suspicious traffic using Wireshark  
-- Identified unusual DNS requests and scanning patterns  
-- Documented possible indicators of compromise
-
-### 🛡 Nmap Scanning Lab
-- Practiced different Nmap scanning techniques  
-- Identified open ports and running services  
-- Documented network enumeration results
-
-### 📊 Log Analysis Lab
-- Reviewed authentication logs  
-- Investigated repeated login failures  
-- Practiced basic incident investigation workflow
-
 ---
 
 # 📈 GitHub Stats
