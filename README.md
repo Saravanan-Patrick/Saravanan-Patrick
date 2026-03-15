@@ -67,7 +67,7 @@ Tools I'm currently learning and practicing with in cybersecurity labs.
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-Hash&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saravanan-Patrick&show_icons=true)
 
 ---
 
