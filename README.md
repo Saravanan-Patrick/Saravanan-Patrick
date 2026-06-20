@@ -1,5 +1,5 @@
 # Hello, I'm [Saravanan] 👋
-- LinkedIn: [Saravanan Cyber](https://www.linkedin.com/in/saravanan-cyber/)
+- LinkedIn: [Saravanan IT](https://www.linkedin.com/in/saravanan-c-it/)
 
 ## [Brief Introduction]
 I'm currently transitioning into the **Cybersecurity field**, with a strong interest in **Security Operations Center (SOC) analysis and threat detection**.
@@ -65,11 +65,7 @@ Tools I'm currently learning and practicing with in cybersecurity labs.
 
 ---
 
-# 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saravanan-Patrick&show_icons=true)
-
----
 
 # 🎯 Career Goal
 
@@ -81,7 +77,7 @@ Cybersecurity is a field where learning never stops, and I'm committed to improv
 
 # 📬 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/saravanan-cyber/]
+- LinkedIn: [https://www.linkedin.com/in/saravanan-c-it/]
 - Email: [career.entrydesk@gmail.com]
 
 
